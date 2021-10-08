@@ -25,3 +25,7 @@ body {
 .space {
   margin-bottom: 25px;
 }
+
+.pad {
+  padding: 20px;
+}
