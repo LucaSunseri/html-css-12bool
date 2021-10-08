@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.box {
+  height: 35px;
+  border: 1px solid white;
+}
+
+.green {
+  background: #0c7556;
+}
+
+.dark-green {
+  background: #16514d;
+}
+
+.light-blue {
+  background: #06ded3;
+}
+
+.dark-light-blue {
+  background: #0bb4ad;
+}
+
+.light-brown {
+  background: #e0560b;
+}
+
+.middle-brown {
+  background: #9c4617;
+}
+
+.dark-brown {
+  background: #733617;
+}
+
+.space {
+  margin: 25px auto;
+}
