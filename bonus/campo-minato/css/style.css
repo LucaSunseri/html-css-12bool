@@ -1,0 +1,58 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  background: #ccc;
+  border: 1px solid grey;
+}
+
+.shadow {
+  border-top: 5px solid white;
+  border-left: 5px solid white;
+  border-right: 5px solid #9a9a9a;
+  border-bottom: 5px solid #9a9a9a;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.back-red {
+  background: red;
+}
+
+.space {
+  margin-bottom: 25px;
+}
+
+/*HEADER*/
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  padding: 0 5px;
+  background: #ccc;
+}
+
+header .box {
+  width: 35px;
+  height: 35px;
+}
+
+/*MAIN*/
+.cornice {
+  border: 5px solid #d6900d;
+}
+
