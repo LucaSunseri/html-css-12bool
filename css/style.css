@@ -1,0 +1,14 @@
+.box, .box-nested {
+  text-align: center;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+.box {
+  background: #006cfa;
+  border: 1px solid white;
+}
+
+.box-nested {
+  background: #00e165;
+}
