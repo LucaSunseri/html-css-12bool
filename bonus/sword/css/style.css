@@ -3,6 +3,10 @@ body {
   font-size: 14px;
 }
 
+.large {
+  width: calc(35*16px);
+}
+
 .box {
   height: 35px;
 }
